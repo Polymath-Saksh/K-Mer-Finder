@@ -21,7 +21,7 @@ The nucleotide sequences are fetched from the [NCBI Nucleotide database](https:/
 ## How to run the script
 
 ```bash
-python kmer_finder.py
+python nucleotides.py
 ```
 
 ## Contributing
