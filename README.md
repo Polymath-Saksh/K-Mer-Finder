@@ -1,4 +1,4 @@
-# K-Mer Finder
+# K-Mer Finder [![License: MIT][License-Badge]](LICENSE.md)
 
 ## Background
 
@@ -33,3 +33,5 @@ We welcome contributions! For bug fixes, issues or suggestions. If you find a bu
 This project is licensed under the MIT License. For details, refer to the [LICENSE](LICENSE) file.
 
 Copyright (c) 2023 Saksham Kumar
+
+[License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
